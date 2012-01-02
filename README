@@ -1,0 +1,14 @@
+# clojure-web-hello-world-ring
+
+Example of an Hello World web application built with Clojure (and Ring).
+
+## Usage
+
+$ lein deps
+$ lein run
+
+## License
+
+Copyright (C) 2012 Giorgio Sironi
+
+Distributed under the Eclipse Public License, the same as Clojure.
